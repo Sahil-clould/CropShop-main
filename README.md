@@ -131,15 +131,25 @@ Create a .env file and add the following:
 
 env
 Copy
+
 Edit
+
 MONGO_DB_URL={your mongodb url}
+
 GEMINI_API_KEY={your gemini api key}
+
 GMAIL_ID={your gmail id}
+
 APP_PASSWORD={your google app password}
+
 JWT_SECRET={jwt secret}
+
 CLOUDINARY_CLOUD_NAME={cloud name}
+
 CLOUDINARY_API_KEY={cloud api key}
+
 CLOUDINARY_API_SECRET={cloud api secret}
+
 Run the backend:
 
 bash
@@ -148,10 +158,14 @@ Edit
 npm install
 nodemon
 # or
+
 node index.js
+
+
 🤝 Contribution
 CropShop welcomes contributions from the community!
 Open issues or submit pull requests to suggest improvements.
+
 
 ⭐ Support
 If you find this project helpful, please give it a star ⭐ on GitHub!
