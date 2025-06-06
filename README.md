@@ -13,42 +13,54 @@ https://crop-connect-lime.vercel.app/
 🔁 Dual Interfaces
 CropShop provides separate interfaces for consumers and sellers, accessible through the navbar with options for SignUp and SignIn (including email verification).
 
-1)👨‍🌾 Seller Side
+1)👨‍🌾 Seller Side:
+
 Visualizing Sales Data
 Integrated Recharts to display meaningful sales graphs.
 
-2)Product Management
+2)Product Management:
+
 Add/edit/delete products with images, stock, map location, and minimum order quantities.
 
-3)Order Management
+3)Order Management:
+
 Access to a dashboard displaying incoming orders and delivery locations via map.
 
-4)FAQ Section
+4)FAQ Section:
+
 Answer common buyer queries which get displayed to all consumers.
 
-5)CropSense AI
+5)CropSense AI:
+
 Uses Gemini AI to predict suitable crops based on user input.
 
-6)🛒 Consumer Side
+6)🛒 Consumer Side:
+
 User-Friendly Interface
 Browse product categories and listings easily.
 
-7)Product Dashboard
+7)Product Dashboard:
+
 View product stock, MOQ, and add directly to cart.
 
-8)Review System
+8)Review System:
+
 Post and view product reviews to build trust.
 
-9)Contact Farmer Form
+9)Contact Farmer Form:
+
 Directly reach out to sellers. Questions answered become part of the FAQ. Map shows location.
 
-10)Dynamic Cart Functionality
+10)Dynamic Cart Functionality:
+
 Adjust cart quantities with MOQ/stock limits enforced.
 
-11)Seamless Checkout
+11)Seamless Checkout:
+
 Review order, apply delivery charges, choose location, and checkout smoothly.
 
-12)Real-Time Stock Updates (WebSocket)
+12)Real-Time Stock Updates (WebSocket):
+
 Live stock visibility without reloading. (Note: May not work on deployed site due to Vercel limitations; works locally.)
 
 🧰 Technologies Used
