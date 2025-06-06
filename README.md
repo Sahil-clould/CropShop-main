@@ -3,7 +3,7 @@
 CropShop is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, CropShop offers a robust set of features for both sellers and consumers in the agricultural marketplace.
 
 🚀 Deployed Link
-https://crop-connect-lime.vercel.app/
+https://crop-shop-main.vercel.app/
 
 
 🏗️ Architecture
@@ -111,7 +111,7 @@ Create a .env file and add:
 env
 Copy
 Edit
-VITE_CROPSHOP_API="https://cropconnect-backend.vercel.app/"
+VITE_CROPSHOP_API="https://cropshop-backend.vercel.app/"
 # For local backend, use: http://localhost:8080/
 Run the frontend:
 
